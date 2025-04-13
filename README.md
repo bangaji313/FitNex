@@ -19,7 +19,7 @@ Proyek ini merupakan implementasi sistem pakar berbasis pengetahuan dan machine 
 2. **Masuk ke folder proyek**
    ```bash
    cd FitNex
-  ```
+   ```
 3. **Install dependensi**
    ```bash
    pip install -r requirements.txt
