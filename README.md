@@ -16,10 +16,10 @@ Proyek ini merupakan implementasi sistem pakar berbasis pengetahuan dan machine 
    ```bash
    git clone https://github.com/bangaji313/FitNex.git
   ```
-2. **Masuk ke Folder Proyek**
+2. **Masuk ke folder proyek**
    ```bash
    cd FitNex
-   ```
+  ```
 3. **Install dependensi**
    ```bash
    pip install -r requirements.txt
