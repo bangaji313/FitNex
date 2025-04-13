@@ -15,7 +15,7 @@ Proyek ini merupakan implementasi sistem pakar berbasis pengetahuan dan machine 
 1. **Clone Repository**
    ```bash
    git clone https://github.com/bangaji313/FitNex.git
-  ```
+   ```
 2. **Masuk ke folder proyek**
    ```bash
    cd FitNex
